@@ -1,0 +1,5 @@
+2. Multi-Vehicle Rental System
+○ Scenario: Cars, bikes, and buses share rent() and returnVehicle()
+methods.
+○ Task: Use interface-based design.
+
