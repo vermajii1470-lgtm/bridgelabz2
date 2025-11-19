@@ -1,0 +1,1 @@
+public class VotingCountElection { public static void main(String[] args) {} }

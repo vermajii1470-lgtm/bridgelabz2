@@ -1,0 +1,1 @@
+public class LibraryBookCatalog { public static void main(String[] args) {} }

@@ -1,0 +1,1 @@
+public class InventoryRestockManagementSystem { public static void main(String[] args) {} }

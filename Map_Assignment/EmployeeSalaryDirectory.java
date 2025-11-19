@@ -1,0 +1,1 @@
+public class EmployeeSalaryDirectory { public static void main(String[] args) {} }

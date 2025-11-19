@@ -1,0 +1,1 @@
+public class CollegeAdmissionSystem { public static void main(String[] args) {} }

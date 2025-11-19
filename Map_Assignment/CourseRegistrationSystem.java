@@ -1,0 +1,1 @@
+public class CourseRegistrationSystem { public static void main(String[] args) {} }

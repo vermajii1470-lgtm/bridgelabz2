@@ -1,0 +1,1 @@
+public class HospitalPatientManagementSystem { public static void main(String[] args) {} }

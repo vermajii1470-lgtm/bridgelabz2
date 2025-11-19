@@ -1,0 +1,1 @@
+public class ShoppingCartPriceSummary { public static void main(String[] args) {} }
